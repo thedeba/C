@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/macbook/C/week_1/output/1'
+relocations:     []
+...
